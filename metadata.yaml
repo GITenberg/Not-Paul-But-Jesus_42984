@@ -1,0 +1,39 @@
+_repo: Not-Paul-But-Jesus_42984
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42984-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bentham, Jeremy
+    birthdate: 1748
+    deathdate: 1832
+    gutenberg_agent_id: '41968'
+    url: http://www.gutenberg.org/2009/agents/41968
+  editor:
+    agent_name: Crandall, John J.
+    alias: Crandall, J. J. (John J.)
+    birthdate: 1836
+    gutenberg_agent_id: '41969'
+    url: http://www.gutenberg.org/2009/agents/41969
+description: Philosopher and scholar Jeremy Bentham played an important role in the
+  early formation of judicial philosophy and philosophy of law. He is also credited
+  as playing a key part in the development of the moral philosophy known as utilitarianism,
+  in which an action's justness is judged based on its ability to have a positive
+  impact on the greatest number of people. Bentham brings both of these domains to
+  bear in this fascinating look at the Apostle Paul.
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. New Testament -- Criticism, interpretation, etc.'
+- !lcsh 'Christianity -- Origin'
+- !lcsh 'Paul, the Apostle, Saint'
+title: Not Paul, But Jesus
+url: http://www.gutenberg.org/ebooks/42984
